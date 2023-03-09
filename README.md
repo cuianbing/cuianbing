@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **cuianbing/cuianbing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
+
+![Visitor Count](https://profile-counter.glitch.me/cuianbing/count.svg)
