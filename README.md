@@ -13,11 +13,11 @@
 
 - 👨‍💻 My blog: [http://blogs.cuianbing.cn/](http://blogs.cuianbing.cn/)
 - 📫 How to reach me: cuianbing@outlook.com
-    <br />
-    <br />
-    <br />
-    <br />
-<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuianbing&layout=compact">
+- 🤔 Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 Studying Computer Science and Mathematics at University of Massachusetts Amherst.
+- 💼 Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
+- 🌱 Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -45,6 +45,8 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
 <br/>
+
+<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuianbing&layout=compact">
 
 
 
