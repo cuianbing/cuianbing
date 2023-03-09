@@ -20,6 +20,8 @@
 
 
 ## 🛠 &nbsp;Tech Stack
+<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuianbing&layout=compact">
+
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -46,7 +48,6 @@
 
 <br/>
 
-<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuianbing&layout=compact">
 
 
 
