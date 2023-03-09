@@ -14,8 +14,8 @@
 - 👨‍💻 My blog: [http://blogs.cuianbing.cn/](http://blogs.cuianbing.cn/)
 - 📫 How to reach me: cuianbing@outlook.com
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
+- 🎓 Studying Computer Science at University of ShanDong JiaoTong.
+- 💼 Working as a Business Development Associate at ShanSteelGroup limited company.
 - 🌱 Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 
 
