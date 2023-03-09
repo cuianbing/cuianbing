@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuianbing&layout=compact)](https://github.com/cuianbing/github-readme-stats)
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=cuianbing&show_icons=true&theme=tokyonight)
+
+
 ![Visitor Count](https://profile-counter.glitch.me/cuianbing/count.svg)
